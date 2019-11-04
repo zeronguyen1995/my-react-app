@@ -1,0 +1,5 @@
+export const INCREMENT = "INCREMENT";
+export const DECREMENT = "DECREMENT";
+export const CALL_API_REQUEST = "CALL_API_REQUEST";
+export const API_CALL_SUCCESS = "API_CALL_SUCCESS";
+export const API_CALL_FAILURE = "API_CALL_FAILURE";
