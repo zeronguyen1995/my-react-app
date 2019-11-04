@@ -4,7 +4,9 @@ import AppRouter from "./approuter.js";
 const App = () =>
 {
   return (
-    <AppRouter />
+    <div className="container-fluid">
+      <AppRouter />
+    </div>
   );
 }
 
